@@ -1,2 +1,4 @@
 # Buffon-s-Needle
-The program is written in Python and uses the Monte Carlo method to simulate Buffon's Needle experiment. /该程序使用Python编写，运用蒙特卡洛方法来模拟蒲丰投针实验。
+该程序使用Python编写，运用蒙特卡洛方法来模拟蒲丰投针实验。在18世纪，法国数学家布丰提出了一种随机投针法，它利用概率统计的方法来计算圆周率π的值，也就是著名的投针实验。布丰在地板上画出若干条平行线，然后将短于平行线距离的针随机抛撒到地面上，通过计算所有针的总数和与这些直线相交的针的数量，得出圆周率的近似值。代码中有详细注释，方便您更好地理解其内容。
+
+The program is written in Python and uses the Monte Carlo method to simulate Buffon's Needle experiment. In the 18th century, a French mathematician named Buffon proposed a random needle throwing method that used probability statistics to calculate the value of pi, known as the needle experiment. Buffon drew several parallel lines on the floor and randomly threw needles shorter than the distance between the parallel lines onto the floor. By counting the total number of needles and the number of needles intersecting with the lines, he calculated the value of pi. The code has detailed comments for better understanding.
